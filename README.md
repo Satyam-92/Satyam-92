@@ -4,7 +4,7 @@
 📍 Gurgaon, India  
 
 ## 👨‍💻 About Me
-- 3+ years of experience in Data Science & AI
+- 2.5+ years of experience in Data Science & AI
 - Strong in Python, SQL, Machine Learning & NLP
 - Worked on end-to-end ML & ETL pipelines
 - Hands-on with Big Data tools and Cloud platforms
